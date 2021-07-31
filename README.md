@@ -25,10 +25,10 @@ At first, you would have to download QT Framework from their website: https://bi
 
 # Algorithm of Recyclops
 
-![alt text](images/flowchart.png)
+![alt text](Project1/images/flowchart.png)
 
 # App development flow
 
-![alt text](images/appflow.jpg)
+![alt text](Project1/images/appflow.jpg)
 
 
