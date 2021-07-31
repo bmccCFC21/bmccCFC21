@@ -17,6 +17,10 @@ We have created a desktop app using C++, and QT framework that gives users impor
 
 Link to video: https://youtu.be/dOYGPWrzvDM
 
+# App development flow
+
+![alt text](Project1/images/appflow.jpg)
+
 # How to use the App
 
 ## Download and install QT
@@ -27,8 +31,6 @@ At first, you would have to download QT Framework from their website: https://bi
 
 ![alt text](Project1/images/flowchart.png)
 
-# App development flow
 
-![alt text](Project1/images/appflow.jpg)
 
 
